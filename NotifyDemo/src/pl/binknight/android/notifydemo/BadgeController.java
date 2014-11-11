@@ -7,6 +7,10 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 
+/**
+ * @author binKnight, 2014.11
+ *
+ */
 public class BadgeController {
 
 	public static void setBadge(Context context, int counterValue) {

@@ -1,21 +1,16 @@
 package pl.binknight.android.notifydemo;
 
-import java.util.List;
-
 import android.app.Activity;
 import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
-import android.content.Context;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.content.pm.ResolveInfo;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
 
 /**
- * @author binKnight, 2014
+ * @author binKnight, 2014.11
  *
  */
 public class NotifyDemo extends Activity {
