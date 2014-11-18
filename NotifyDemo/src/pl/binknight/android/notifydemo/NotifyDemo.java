@@ -1,5 +1,6 @@
 package pl.binknight.android.notifydemo;
 
+import android.R;
 import android.app.Activity;
 import android.app.Notification;
 import android.app.NotificationManager;
